@@ -1,1 +1,1 @@
-creditcard.csv
+*.csv #ignore all data files
